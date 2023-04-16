@@ -1,4 +1,4 @@
-👋 Hi, I’m @shiiraz
+Hi 👋
 
 <!---
 shiiraz/shiiraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
