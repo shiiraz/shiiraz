@@ -1,6 +1,6 @@
 # Hi there, I'm Shiraz 👋
 
-Full Stack Developer with 4+ years of experience building high-performance web applications using React, Next.js, Node.js, and TypeScript. Currently architecting scalable solutions and leading technical initiatives.
+Full Stack Developer with 5+ years of experience building high-performance web applications using React, Next.js, Node.js, and TypeScript. Currently architecting scalable solutions and leading technical initiatives.
 
 ### 💼 Professional Work
 
