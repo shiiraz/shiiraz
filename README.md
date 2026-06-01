@@ -12,4 +12,4 @@ JavaScript/TypeScript • React • Next.js • Node.js • Express.js • Mongo
 
 ### 📫 Connect
 
-[Portfolio](https://shiraz.sh) • [LinkedIn](https://www.linkedin.com/in/muhammad-shiraz-awan/) • [Work GitHub](https://github.com/shiraz-123) • hello@shiraz.sh
+[Personal Site](https://shiraz.sh) • [LinkedIn](https://www.linkedin.com/in/muhammad-shiraz-awan/) • [Work GitHub](https://github.com/shiraz-123) • hello@shiraz.sh
